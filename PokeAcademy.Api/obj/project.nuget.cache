@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yR1aXW9SV4M/NSAsR2oZ+S9bAStuhlwHwUVf+Cy/521Z6nH4QxZvH06F6tj7qIkdbl53gW3FeQJLcCtcaKcXiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LEAE\\OneDrive - GFT Technologies SE\\Documents\\ProjetosPessoais\\ComunicaoEntreApi\\PokeAcademy.Api\\PokeAcademy.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEAE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\LEAE\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LEAE\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\LEAE\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\LEAE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\LEAE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
